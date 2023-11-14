@@ -37,7 +37,7 @@ The file hierarchy is structured as shown:
 - Live Site URL: [] 
 ## _Built with_
 
- ![](https://ferreiras.dev.br/assets/images/icons/git-scm-icon.svg) | ![](https://ferreiras.dev.br/assets/images/icons/eclipse_builton.svg) | ![](https://ferreiras.dev.br/assets/images/icons/java-icon.svg) | ![](https://ferreiras.dev.br/assets/images/icons/linux-original.svg) | ![](https://ferreiras.dev.br/assets/images/icons/ bash-original.svg) | 
+ ![](https://ferreiras.dev.br/assets/images/icons/git-scm-icon.svg) | ![](https://ferreiras.dev.br/assets/images/icons/eclipse_builton.svg) | ![](https://ferreiras.dev.br/assets/images/icons/java-icon.svg) | ![](https://ferreiras.dev.br/assets/images/icons/linux-original.svg) | ![](https://ferreiras.dev.br/assets/images/icons/bash-original.svg) | 
 
  ## _What I practiced_
 ```java

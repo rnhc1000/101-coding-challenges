@@ -37,7 +37,7 @@ The file hierarchy is structured as shown:
 - Live Site URL: [] 
 ## _Built with_
 
- ![](https://ferreiras.dev.br/assets/images/icons/git-scm-icon.svg) | ![](https://ferreiras.dev.br/assets/images/icons/eclipse_builton.svg) | ![](https://ferreiras.dev.br/assets/images/icons/java-icon.svg) | ![](https://ferreiras.dev.br/assets/images/icons/linux-original.svg) | ![](https://ferreiras.dev.br/assets/images/icons/bash-original.svg) | 
+ ![](https://ferreiras.dev.br/assets/images/icons/git-scm-icon.svg) | ![](https://ferreiras.dev.br/assets/images/icons/eclipse_builton.svg) | ![](https://ferreiras.dev.br/assets/images/icons/java-icon.svg) | ![](https://ferreiras.dev.br/assets/images/icons/linux-original.svg) | ![](https://ferreiras.dev.br/assets/images/icons/ bash-original.svg) | 
 
  ## _What I practiced_
 ```java
@@ -84,9 +84,9 @@ public class TwoSumHash {
 ## _Continued development_
 - Next step: Keep moving forward 
 ### _Useful resources_
-- [https://leetcode.com] Awesome!
-- [https://hackerrank/] 
-- [https://captaincode.org].
+- [https://leetcode.com] LeetCode has gained popularity among job seekers and coding enthusiasts as a resource for technical interviews and coding competitions.
+- [https://hackerrank.com/] HackerRank is a technology company that focuses on competitive programming challenges for both consumers and businesses. Developers compete by writing programs according to provided specifications.
+- [https://freecodecamp.org] https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites
 ## _Author_
 - Website - [https://ferreiras.dev.br] 
 ## Acknowledgments

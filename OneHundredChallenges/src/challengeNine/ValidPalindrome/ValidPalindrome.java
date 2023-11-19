@@ -69,7 +69,7 @@ public class ValidPalindrome {
 
 	System.out.println(isAnagram(s1, s2));
 
-	String s3 = "A man, a plan, xa canal: Panama";
+	String s3 = "A man, a plan, a canal: Panama";
 	String s4 = "Race a eCar";
 
 	System.out.println(isPalindrome(s4));

@@ -1,5 +1,5 @@
 ## OneHundred Leetcode Coding Challenges 
-Going down to key concepts of Data Structires & Algorithms 
+Going down to key concepts of Data Structures & Algorithms 
 - HashMap
 - LinkedList
 - Binary Search

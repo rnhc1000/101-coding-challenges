@@ -74,7 +74,6 @@ public class ThroughputHttpServer {
 	    long count = 0;
 	    int index = 0;
 	    while (index >= 0) {
-
 		index = text.indexOf(word, index);
 		if (index >= 0) {
 

@@ -20,7 +20,7 @@ public class LambdaArguments {
 	lista.add(new Producto("Microondas", 550.00));
 
 	/*
-	 * Paramêmetro: interface Consumer JDK 1.8
+	 * Parametro: interface Consumer JDK 1.8
 	 *
 	 * Lambda expression com um argumento
 	 */
@@ -29,7 +29,7 @@ public class LambdaArguments {
 	System.out.println("*********************** Ordem crescente de preços **************************");
 
 	/*
-	 * Paramêmetro: interface Comparator JDK 1.2
+	 * Parametro: interface Comparator JDK 1.2
 	 * 
 	 * Lambda expression com dois argumentos
 	 */
